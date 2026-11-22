@@ -20182,7 +20182,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -20217,15 +20217,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9aae3e06-60e8-4927-919f-2fd3c1db7091/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20261122130000 +0000" stop="20261122133000 +0000">
+  <programme channel="BBCNews.uk" start="20261122130000 +0000" stop="20261122140000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/50f8aa8d-cf48-482b-8922-87cc6e1935b5/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20261122133000 +0000" stop="20261122140000 +0000">
-    <title lang="en">Tech Now</title>
-    <desc lang="en">Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5ee87895-18a6-4ef0-b6e5-e8194b3f7aec/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261122140000 +0000" stop="20261122143000 +0000">
     <title lang="en">BBC News</title>
@@ -20289,7 +20284,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20261122203000 +0000" stop="20261122210000 +0000">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <desc lang="en">Theresa May and Tony Blair have given their verdict on Andy Burnham's UK-EU reset deal.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ca99a86e-59b2-4fa5-99b5-ac4363f0d4d2/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261122210000 +0000" stop="20261122220000 +0000">
@@ -21869,7 +21864,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -22908,7 +22903,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -23945,7 +23940,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -24984,7 +24979,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -26021,7 +26016,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -27060,7 +27055,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -28099,7 +28094,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -29161,7 +29156,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -30225,7 +30220,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -31264,7 +31259,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -32303,7 +32298,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -33342,7 +33337,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -34418,7 +34413,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -35457,7 +35452,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -36496,7 +36491,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -37535,7 +37530,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg talks to foreign secretary, Ed Miliband MP, former Prime Minister Theresa May, and deputy leader of the Conservative party, Alex Burghart MP.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc132cf-8521-4b7b-b316-b99546a5cecc/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -39576,7 +39571,7 @@
   </programme>
   <programme channel="BBCR1X.uk" start="20261122160000 +0000" stop="20261122190000 +0000">
     <title lang="en">Rampage</title>
-    <desc lang="en">Three hours of hip-hop, dancehall, UKG, jungle and more in the mix from Rampage Sound. @1Xtra on social.</desc>
+    <desc lang="en">DJ and broadcaster Uncle Dugs and director and producer Jamie Ross-Hulme talk about the upcoming online premiere of HYPER: The Stevie Hyper D Story. Uncle Dugs also jumps into the mix.</desc>
   </programme>
   <programme channel="BBCR1X.uk" start="20261122190000 +0000" stop="20261122210000 +0000">
     <title lang="en">Heartless Crew</title>
@@ -40476,7 +40471,7 @@
   </programme>
   <programme channel="BBCR3.uk" start="20261123130000 +0000" stop="20261123160000 +0000">
     <title lang="en">Classical Live</title>
-    <desc lang="en">Elizabeth Alker showcases live performance and exclusive concerts from home and abroad, including the Modigliani Quartet playing music by César Franck live in Wigmore Hall, London.</desc>
+    <desc lang="en">Elizabeth Alker showcases live performance and exclusive concerts from home and abroad, including pianist Khanh-Nhi Luong live in recital at London's Wigmore Hall.</desc>
   </programme>
   <programme channel="BBCR3.uk" start="20261123160000 +0000" stop="20261123170000 +0000">
     <title lang="en">Composer of the Week: Falla</title>
@@ -42160,7 +42155,7 @@
   </programme>
   <programme channel="BBCR4FM.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Broadcasting House</title>
-    <desc lang="en">The Sunday morning news magazine programme. Presented by Paddy O'Connell.</desc>
+    <desc lang="en">Tony Blair and Theresa May express concern over the prospect of Andy Burnham reversing Brexit. We discuss the deal struck this week with negotiators either side of the Channel.</desc>
   </programme>
   <programme channel="BBCR4FM.uk" start="20261122100000 +0000" stop="20261122110000 +0000">
     <title lang="en">Desert Island Discs</title>
@@ -42220,7 +42215,7 @@
   </programme>
   <programme channel="BBCR4FM.uk" start="20261122180000 +0000" stop="20261122181500 +0000">
     <title lang="en">Six O'Clock News</title>
-    <desc lang="en">National and international news from BBC Radio 4.</desc>
+    <desc lang="en">UN climate conference ends in failure after deep divisions over fossil fuels and money.</desc>
   </programme>
   <programme channel="BBCR4FM.uk" start="20261122181500 +0000" stop="20261122190000 +0000">
     <title lang="en">Pick of the Week</title>
@@ -43264,7 +43259,7 @@
   </programme>
   <programme channel="BBCR4LW.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
     <title lang="en">Broadcasting House</title>
-    <desc lang="en">The Sunday morning news magazine programme. Presented by Paddy O'Connell.</desc>
+    <desc lang="en">Tony Blair and Theresa May express concern over the prospect of Andy Burnham reversing Brexit. We discuss the deal struck this week with negotiators either side of the Channel.</desc>
   </programme>
   <programme channel="BBCR4LW.uk" start="20261122100000 +0000" stop="20261122110000 +0000">
     <title lang="en">Desert Island Discs</title>
@@ -43324,7 +43319,7 @@
   </programme>
   <programme channel="BBCR4LW.uk" start="20261122180000 +0000" stop="20261122181500 +0000">
     <title lang="en">Six O'Clock News</title>
-    <desc lang="en">National and international news from BBC Radio 4.</desc>
+    <desc lang="en">UN climate conference ends in failure after deep divisions over fossil fuels and money.</desc>
   </programme>
   <programme channel="BBCR4LW.uk" start="20261122181500 +0000" stop="20261122190000 +0000">
     <title lang="en">Pick of the Week</title>
@@ -44336,7 +44331,7 @@
   </programme>
   <programme channel="BBCR5L.uk" start="20261122203000 +0000" stop="20261122210000 +0000">
     <title lang="en">F1: Chequered Flag</title>
-    <desc lang="en">A review of the Las Vegas Grand Prix with the 5 Live F1 team.</desc>
+    <desc lang="en">The team review an extraordinary race in Las Vegas. Verstappen delivers a brutal response to Russell, plus Ferrari face more scrutiny after Hamilton &amp; Leclerc's latest collision.</desc>
   </programme>
   <programme channel="BBCR5L.uk" start="20261122210000 +0000" stop="20261123000000 +0000">
     <title lang="en">Stephen Nolan</title>
@@ -44618,11 +44613,11 @@
     <title lang="en">This Is Sports Extra</title>
     <desc lang="en">This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.</desc>
   </programme>
-  <programme channel="BBCR5SX.uk" start="20261122080000 +0000" stop="20261122113000 +0000">
+  <programme channel="BBCR5SX.uk" start="20261122080000 +0000" stop="20261122110500 +0000">
     <title lang="en">Big Bash League</title>
     <desc lang="en">Live ball-by-ball cricket commentary from ABC in Australia of Melbourne Stars v Melbourne Renegades in the Women's Big Bash League.</desc>
   </programme>
-  <programme channel="BBCR5SX.uk" start="20261122113000 +0000" stop="20261122114500 +0000">
+  <programme channel="BBCR5SX.uk" start="20261122110500 +0000" stop="20261122114500 +0000">
     <title lang="en">This Is Sports Extra</title>
     <desc lang="en">This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.</desc>
   </programme>
@@ -45752,7 +45747,7 @@
   </programme>
   <programme channel="BBCRScotland.uk" start="20261124190000 +0000" stop="20261124223000 +0000">
     <title lang="en">Sportsound</title>
-    <desc lang="en">Live football commentary of Rangers v Aberdeen in the Scottish Premiership.</desc>
+    <desc lang="en">Full commentary of Rangers v Aberdeen live from Ibrox including updates from Hibs v Dundee.</desc>
   </programme>
   <programme channel="BBCRScotland.uk" start="20261124223000 +0000" stop="20261125000000 +0000">
     <title lang="en">Up Late</title>
@@ -45828,11 +45823,11 @@
   </programme>
   <programme channel="BBCRScotland.uk" start="20261126173000 +0000" stop="20261126194500 +0000">
     <title lang="en">Sportsound</title>
-    <desc lang="en">Live football commentary of Hearts v Monaco in the UEFA Conference League.</desc>
+    <desc lang="en">Full commentary live from Tynecastle as Hearts take on Monaco in the UEFA Conference League.</desc>
   </programme>
   <programme channel="BBCRScotland.uk" start="20261126194500 +0000" stop="20261126230000 +0000">
     <title lang="en">Sportsound</title>
-    <desc lang="en">Live football commentary of Torreense v Celtic in the UEFA Europa League.</desc>
+    <desc lang="en">Full commentary live from Portugal as Celtic travel to Torreense in the UEFA Europa League.</desc>
   </programme>
   <programme channel="BBCRScotland.uk" start="20261126230000 +0000" stop="20261127000000 +0000">
     <title lang="en">Up Late</title>
@@ -47292,7 +47287,6 @@
   <programme channel="BBCRadioBristol.uk" start="20261128120000 +0000" stop="20261128180000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioBristol.uk" start="20261128180000 +0000" stop="20261128200000 +0000">
     <title lang="en">Upload</title>
@@ -47315,7 +47309,7 @@
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261122060000 +0000" stop="20261122100000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261122100000 +0000" stop="20261122140000 +0000">
     <title lang="en">Thordis Fridriksson</title>
@@ -47379,7 +47373,7 @@
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261124180000 +0000" stop="20261124220000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261124220000 +0000" stop="20261125010000 +0000">
     <title lang="en">The Late Show</title>
@@ -47403,7 +47397,7 @@
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261125180000 +0000" stop="20261125220000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261125220000 +0000" stop="20261126010000 +0000">
     <title lang="en">The Late Show</title>
@@ -47459,7 +47453,6 @@
   <programme channel="BBCRadioCambridgeshire.uk" start="20261127180000 +0000" stop="20261127190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261127190000 +0000" stop="20261127220000 +0000">
     <title lang="en">Angelle Joseph</title>
@@ -47486,7 +47479,6 @@
   <programme channel="BBCRadioCambridgeshire.uk" start="20261128140000 +0000" stop="20261128180000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261128180000 +0000" stop="20261128200000 +0000">
     <title lang="en">Upload</title>
@@ -47666,7 +47658,6 @@
   <programme channel="BBCRadioCornwall.uk" start="20261128140000 +0000" stop="20261128180000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioCornwall.uk" start="20261128180000 +0000" stop="20261128200000 +0000">
     <title lang="en">Upload</title>
@@ -48560,7 +48551,7 @@
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261124180000 +0000" stop="20261124190000 +0000">
     <title lang="en">Sportscene at Six</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjdpg6.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0nkksvv.jpg"/>
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261124190000 +0000" stop="20261124200000 +0000">
     <title lang="en">Sportscene: Pre-match</title>
@@ -48595,7 +48586,7 @@
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261125180000 +0000" stop="20261125190000 +0000">
     <title lang="en">Sportscene at Six</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjdpg6.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0nkksvv.jpg"/>
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261125190000 +0000" stop="20261125220000 +0000">
     <title lang="en">Deke Hardman</title>
@@ -48622,7 +48613,7 @@
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261126180000 +0000" stop="20261126190000 +0000">
     <title lang="en">Sportscene at Six</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjdpg6.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0nkksvv.jpg"/>
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261126190000 +0000" stop="20261126200000 +0000">
     <title lang="en">Upload</title>
@@ -48652,7 +48643,7 @@
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261127180000 +0000" stop="20261127190000 +0000">
     <title lang="en">Sportscene at Six</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjdpg6.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0nkksvv.jpg"/>
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261127190000 +0000" stop="20261127220000 +0000">
     <title lang="en">Letitia George</title>
@@ -48773,7 +48764,6 @@
   <programme channel="BBCRadioDevon.uk" start="20261124190000 +0000" stop="20261124220000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioDevon.uk" start="20261124220000 +0000" stop="20261125010000 +0000">
     <title lang="en">The Late Show</title>
@@ -48870,7 +48860,6 @@
   <programme channel="BBCRadioDevon.uk" start="20261128120000 +0000" stop="20261128180000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioDevon.uk" start="20261128180000 +0000" stop="20261128200000 +0000">
     <title lang="en">Upload</title>
@@ -49599,10 +49588,6 @@
     <title lang="en">BBC News NI update</title>
     <desc lang="en">The latest national and international news.</desc>
   </programme>
-  <programme channel="BBCRadioGaidhael.uk" start="20261121130000 +0000" stop="20261122090000 +0000">
-    <title lang="en">Mar Radio Alba</title>
-    <desc lang="en">Tha BBC Radio nan Gaidheal mar BBC Radio Alba. BBC Radio nan Gaidheal joins BBC Radio Scotland.</desc>
-  </programme>
   <programme channel="BBCRadioGaidhael.uk" start="20261122090000 +0000" stop="20261122093000 +0000">
     <title lang="en">Dèanamaid Adhradh</title>
     <desc lang="en">Seirbheis còmhla ris an Urr Iain Mac a' Ghobhainn bhon Eaglais Shaor Leantainneach. Gaelic service conducted by the Rev Ian Smith, Free Church (Continuing).</desc>
@@ -50131,7 +50116,6 @@
   <programme channel="BBCRadioGloucestershire.uk" start="20261128150000 +0000" stop="20261128170000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioGloucestershire.uk" start="20261128170000 +0000" stop="20261128180000 +0000">
     <title lang="en">Extra Time</title>
@@ -50778,7 +50762,6 @@
   <programme channel="BBCRadioLancashire.uk" start="20261123180000 +0000" stop="20261123190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLancashire.uk" start="20261123190000 +0000" stop="20261123220000 +0000">
     <title lang="en">Raees Khan</title>
@@ -50806,7 +50789,6 @@
   <programme channel="BBCRadioLancashire.uk" start="20261124180000 +0000" stop="20261124190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLancashire.uk" start="20261124190000 +0000" stop="20261124220000 +0000">
     <title lang="en">Joel Mitchell</title>
@@ -50834,7 +50816,6 @@
   <programme channel="BBCRadioLancashire.uk" start="20261125180000 +0000" stop="20261125190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLancashire.uk" start="20261125190000 +0000" stop="20261125220000 +0000">
     <title lang="en">Joel Mitchell</title>
@@ -50862,7 +50843,6 @@
   <programme channel="BBCRadioLancashire.uk" start="20261126180000 +0000" stop="20261126190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLancashire.uk" start="20261126190000 +0000" stop="20261126200000 +0000">
     <title lang="en">Upload</title>
@@ -50893,7 +50873,6 @@
   <programme channel="BBCRadioLancashire.uk" start="20261127180000 +0000" stop="20261127200000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLancashire.uk" start="20261127200000 +0000" stop="20261127220000 +0000">
     <title lang="en">Rachel Teate</title>
@@ -51385,7 +51364,6 @@
   <programme channel="BBCRadioLeicester.uk" start="20261128150000 +0000" stop="20261128170000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLeicester.uk" start="20261128170000 +0000" stop="20261128180000 +0000">
     <title lang="en">Sport: Post-match</title>
@@ -51688,11 +51666,11 @@
   </programme>
   <programme channel="BBCRadioLondon.uk" start="20261122060000 +0000" stop="20261122100000 +0000">
     <title lang="en">Inspirit with Jumoké Fashola</title>
-    <desc lang="en">Debating the week's big religious, moral and ethical issues.</desc>
+    <desc lang="en">JW3's Raymond Simonson, musicians The Joy &amp; six-time Grammy winner Samara Joy.</desc>
   </programme>
   <programme channel="BBCRadioLondon.uk" start="20261122100000 +0000" stop="20261122140000 +0000">
     <title lang="en">Robert Elms</title>
-    <desc lang="en">Everything you need to know about London from architecture to accents and great music.</desc>
+    <desc lang="en">Listed Londoner: Robert meets Jacob Kenedy, chef and founder of Soho's Bocca di Lupo.</desc>
   </programme>
   <programme channel="BBCRadioLondon.uk" start="20261122140000 +0000" stop="20261122180000 +0000">
     <title lang="en">The Make a Difference Show</title>
@@ -52473,7 +52451,7 @@
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261122060000 +0000" stop="20261122100000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261122100000 +0000" stop="20261122140000 +0000">
     <title lang="en">Thordis Fridriksson</title>
@@ -52536,7 +52514,7 @@
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261124180000 +0000" stop="20261124220000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261124220000 +0000" stop="20261125010000 +0000">
     <title lang="en">The Late Show</title>
@@ -52559,7 +52537,7 @@
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261125180000 +0000" stop="20261125220000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261125220000 +0000" stop="20261126010000 +0000">
     <title lang="en">The Late Show</title>
@@ -52639,7 +52617,6 @@
   <programme channel="BBCRadioNorfolk.uk" start="20261128120000 +0000" stop="20261128150000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261128150000 +0000" stop="20261128160000 +0000">
     <title lang="en">Canary Call</title>
@@ -52670,7 +52647,7 @@
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261122060000 +0000" stop="20261122100000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261122100000 +0000" stop="20261122140000 +0000">
     <title lang="en">Justin Dealey</title>
@@ -52737,7 +52714,7 @@
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261124190000 +0000" stop="20261124220000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261124220000 +0000" stop="20261125010000 +0000">
     <title lang="en">The Late Show</title>
@@ -52765,7 +52742,7 @@
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261125190000 +0000" stop="20261125220000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261125220000 +0000" stop="20261126010000 +0000">
     <title lang="en">The Late Show</title>
@@ -52836,7 +52813,7 @@
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261128060000 +0000" stop="20261128100000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261128100000 +0000" stop="20261128140000 +0000">
     <title lang="en">Justin Dealey</title>
@@ -52845,7 +52822,6 @@
   <programme channel="BBCRadioNorthampton.uk" start="20261128140000 +0000" stop="20261128180000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261128180000 +0000" stop="20261128200000 +0000">
     <title lang="en">Upload</title>
@@ -53723,7 +53699,6 @@
   <programme channel="BBCRadioShropshire.uk" start="20261124194500 +0000" stop="20261124220000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioShropshire.uk" start="20261124220000 +0000" stop="20261125010000 +0000">
     <title lang="en">The Late Show</title>
@@ -53824,7 +53799,6 @@
   <programme channel="BBCRadioShropshire.uk" start="20261128150000 +0000" stop="20261128170000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioShropshire.uk" start="20261128170000 +0000" stop="20261128180000 +0000">
     <title lang="en">The Verdict</title>
@@ -54315,7 +54289,7 @@
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261122060000 +0000" stop="20261122100000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261122100000 +0000" stop="20261122140000 +0000">
     <title lang="en">Justin Dealey</title>
@@ -54337,7 +54311,7 @@
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261123060000 +0000" stop="20261123100000 +0000">
     <title lang="en">Andy Collins</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0dwwmjk.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0dwwvdq.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261123100000 +0000" stop="20261123140000 +0000">
     <title lang="en">The JVS Show</title>
@@ -54366,7 +54340,7 @@
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261124060000 +0000" stop="20261124100000 +0000">
     <title lang="en">Andy Collins</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0dwwmjk.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0dwwvdq.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261124100000 +0000" stop="20261124140000 +0000">
     <title lang="en">The JVS Show</title>
@@ -54381,7 +54355,6 @@
   <programme channel="BBCRadioThreeCounties.uk" start="20261124190000 +0000" stop="20261124220000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261124220000 +0000" stop="20261125010000 +0000">
     <title lang="en">The Late Show</title>
@@ -54392,7 +54365,7 @@
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261125060000 +0000" stop="20261125100000 +0000">
     <title lang="en">Andy Collins</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0dwwmjk.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0dwwvdq.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261125100000 +0000" stop="20261125140000 +0000">
     <title lang="en">The JVS Show</title>
@@ -54406,7 +54379,7 @@
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261125180000 +0000" stop="20261125220000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261125220000 +0000" stop="20261126010000 +0000">
     <title lang="en">The Late Show</title>
@@ -54417,7 +54390,7 @@
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261126060000 +0000" stop="20261126100000 +0000">
     <title lang="en">Andy Collins</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0dwwmjk.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0dwwvdq.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261126100000 +0000" stop="20261126140000 +0000">
     <title lang="en">The JVS Show</title>
@@ -54445,7 +54418,7 @@
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261127060000 +0000" stop="20261127100000 +0000">
     <title lang="en">Andy Collins</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0dwwmjk.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0dwwvdq.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261127100000 +0000" stop="20261127140000 +0000">
     <title lang="en">The JVS Show</title>
@@ -54460,7 +54433,6 @@
   <programme channel="BBCRadioThreeCounties.uk" start="20261127180000 +0000" stop="20261127190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261127190000 +0000" stop="20261127220000 +0000">
     <title lang="en">Angelle Joseph</title>
@@ -54476,7 +54448,7 @@
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261128060000 +0000" stop="20261128100000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf80q5.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261128100000 +0000" stop="20261128140000 +0000">
     <title lang="en">Justin Dealey</title>
@@ -54489,7 +54461,6 @@
   <programme channel="BBCRadioThreeCounties.uk" start="20261128150000 +0000" stop="20261128170000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261128170000 +0000" stop="20261128180000 +0000">
     <title lang="en">5-0-5</title>
@@ -54552,7 +54523,6 @@
   <programme channel="BBCRadioYork.uk" start="20261123180000 +0000" stop="20261123190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioYork.uk" start="20261123190000 +0000" stop="20261123220000 +0000">
     <title lang="en">Arzu Dutta</title>
@@ -54581,12 +54551,10 @@
   <programme channel="BBCRadioYork.uk" start="20261124180000 +0000" stop="20261124190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioYork.uk" start="20261124190000 +0000" stop="20261124220000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioYork.uk" start="20261124220000 +0000" stop="20261125010000 +0000">
     <title lang="en">The Late Show</title>
@@ -54611,12 +54579,10 @@
   <programme channel="BBCRadioYork.uk" start="20261125180000 +0000" stop="20261125190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioYork.uk" start="20261125190000 +0000" stop="20261125220000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioYork.uk" start="20261125220000 +0000" stop="20261126010000 +0000">
     <title lang="en">The Late Show</title>
@@ -54673,7 +54639,6 @@
   <programme channel="BBCRadioYork.uk" start="20261127180000 +0000" stop="20261127190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioYork.uk" start="20261127190000 +0000" stop="20261127220000 +0000">
     <title lang="en">Sile Sibanda</title>
@@ -54698,7 +54663,6 @@
   <programme channel="BBCRadioYork.uk" start="20261128140000 +0000" stop="20261128180000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioYork.uk" start="20261128180000 +0000" stop="20261128200000 +0000">
     <title lang="en">Upload</title>
@@ -54978,6 +54942,8 @@
     <title lang="en">Strictly Come Dancing - Signed</title>
     <desc lang="en">Celebrities take to the dance floor to perform a dazzling display of ballroom routines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f5f55d91-9bcb-4fe2-98e2-4a19154f70ba/cover"/>
+    <episode-num system="xmltv_ns">23.18.0</episode-num>
+    <episode-num system="onscreen">S24E19</episode-num>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20261128202500 +0000" stop="20261128230000 +0000">
     <title lang="en">Snooker: UK Championship Extra</title>
@@ -59767,7 +59733,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261122060600 +0000" stop="20261122070000 +0000">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">A new draft agreement was published in the early hours of Sunday.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261122070000 +0000" stop="20261122070600 +0000">
     <title lang="en">BBC News</title>
@@ -59775,7 +59741,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261122070600 +0000" stop="20261122080000 +0000">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">The EU and Pacific island nations are pushing back against the latest draft deal.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261122080000 +0000" stop="20261122080600 +0000">
     <title lang="en">BBC News</title>
@@ -59783,7 +59749,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261122080600 +0000" stop="20261122090000 +0000">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Plan could come into effect mid-next year.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261122090000 +0000" stop="20261122090600 +0000">
     <title lang="en">BBC News</title>
@@ -59855,7 +59821,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261122130600 +0000" stop="20261122140000 +0000">
     <title lang="en">Newshour</title>
-    <desc lang="en">Interviews, news and analysis of the day's global events.</desc>
+    <desc lang="en">The European Union says the UN climate talks in Turkey have been hijacked by some oil producing states - as hopes of a last-minute deal appear to end.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261122140000 +0000" stop="20261122140600 +0000">
     <title lang="en">BBC News</title>
@@ -62004,10 +61970,6 @@
   <programme channel="BFBSRadio.uk" start="20261128210000 +0000" stop="20261129000000 +0000">
     <title lang="en">Club Culture</title>
     <desc lang="en">Kick off the Forces Saturday night with the best house, trance, upfront and classic floor-fillers.</desc>
-  </programme>
-  <programme channel="BestDirect.uk" start="20261121180000 +0000" stop="20261122000000 +0000">
-    <title lang="en">Best Direct Evening Offers</title>
-    <desc lang="en">From fitness equipment to household gadgets, Best Direct has something for everyone at amazing prices! Call 0871 222 2007 (calls cost 10p per minute from BT landlines) or visit www.bestdirect.co.uk</desc>
   </programme>
   <programme channel="BestDirect.uk" start="20261122000000 +0000" stop="20261122050000 +0000">
     <title lang="en">Best Direct Night-Time Offers</title>
@@ -71252,65 +71214,125 @@
     <desc lang="en">From voice-cloning to face swaps, to deepfake nudes, deepfake scams are sweeping across India.</desc>
     <icon src="http://img.freeviewplay.net/ec360fd991583ba4f5b2fbf6f04862e2a?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261127220000 +0000" stop="20261128000000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261127220000 +0000" stop="20261127230000 +0000">
+    <title lang="en">East Asia Tonight 2026/2027 - Fri 27/11/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e6b35bfbb0180f0b177fd3fbd67c12651?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261128000000 +0000" stop="20261128020000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261127230000 +0000" stop="20261128000000 +0000">
+    <title lang="en">A Frame In Time</title>
+    <desc lang="en">Trishaw riders, construction workers, coolies at the port. These are just a few of the working-class heroes who helped build Singapore. These are their stories.</desc>
+    <icon src="http://img.freeviewplay.net/e7eabe8825e309cf537102e0269e011ff?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261128020000 +0000" stop="20261128040000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261128000000 +0000" stop="20261128010002 +0000">
+    <title lang="en">Asia Tonight 2026/2027 - Fri 27/11/2026</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e5a8c7b671eb2e87c22b1e76ba932abb7?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261128040000 +0000" stop="20261128060000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261128010002 +0000" stop="20261128020000 +0000">
+    <title lang="en">Singapore Hour</title>
+    <desc lang="en">Stressed? It's time to freshen up - Singapore style. Ditch the desk for a forest bath or a full-on junk-smashing rage room. Take your fun offshore for coral spotting or a paddleboard workout that migh</desc>
+    <icon src="http://img.freeviewplay.net/e545aabeebefa4a89767315549d8a3e59?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261128060000 +0000" stop="20261128080000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261128020000 +0000" stop="20261128030001 +0000">
+    <title lang="en">Shermin's March</title>
+    <desc lang="en">A 30-something writer-producer who never had a boyfriend has 8 months to find the man of her dreams. Will she be able to find her prince charming or is she destined to be single forever?</desc>
+    <icon src="http://img.freeviewplay.net/e8ac38e057b35041e6ea5a4e062c86b55?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261128080000 +0000" stop="20261128100000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261128030001 +0000" stop="20261128040000 +0000">
+    <title lang="en">Shermin's March</title>
+    <desc lang="en">After countless dates, it has come down to 2 guys. To test her compatibility with both of them, Shermin takes it up 1 notch - by going on an overseas trip with each potential prince charming.</desc>
+    <icon src="http://img.freeviewplay.net/e8ac38e057b35041e6ea5a4e062c86b55?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261128100000 +0000" stop="20261128120000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261128040000 +0000" stop="20261128050005 +0000">
+    <title lang="en">East Asia Tonight 2026/2027 - Fri 27/11/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e6b35bfbb0180f0b177fd3fbd67c12651?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261128120000 +0000" stop="20261128140000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261128050005 +0000" stop="20261128060000 +0000">
+    <title lang="en">A Frame In Time</title>
+    <desc lang="en">Trishaw riders, construction workers, coolies at the port. These are just a few of the working-class heroes who helped build Singapore. These are their stories.</desc>
+    <icon src="http://img.freeviewplay.net/e7eabe8825e309cf537102e0269e011ff?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261128140000 +0000" stop="20261128160000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261128060000 +0000" stop="20261128070001 +0000">
+    <title lang="en">Asia Tonight 2026/2027 - Fri 27/11/2026</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e5a8c7b671eb2e87c22b1e76ba932abb7?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261128160000 +0000" stop="20261128180000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261128070001 +0000" stop="20261128080000 +0000">
+    <title lang="en">Singapore Hour</title>
+    <desc lang="en">Stressed? It's time to freshen up - Singapore style. Ditch the desk for a forest bath or a full-on junk-smashing rage room. Take your fun offshore for coral spotting or a paddleboard workout that migh</desc>
+    <icon src="http://img.freeviewplay.net/e545aabeebefa4a89767315549d8a3e59?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261128180000 +0000" stop="20261128200000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261128080000 +0000" stop="20261128090003 +0000">
+    <title lang="en">Shermin's March</title>
+    <desc lang="en">A 30-something writer-producer who never had a boyfriend has 8 months to find the man of her dreams. Will she be able to find her prince charming or is she destined to be single forever?</desc>
+    <icon src="http://img.freeviewplay.net/e8ac38e057b35041e6ea5a4e062c86b55?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261128200000 +0000" stop="20261128220000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261128090003 +0000" stop="20261128100000 +0000">
+    <title lang="en">Shermin's March</title>
+    <desc lang="en">After countless dates, it has come down to 2 guys. To test her compatibility with both of them, Shermin takes it up 1 notch - by going on an overseas trip with each potential prince charming.</desc>
+    <icon src="http://img.freeviewplay.net/e8ac38e057b35041e6ea5a4e062c86b55?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261128100000 +0000" stop="20261128110000 +0000">
+    <title lang="en">East Asia Tonight 2026/2027 - Fri 27/11/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e6b35bfbb0180f0b177fd3fbd67c12651?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261128110000 +0000" stop="20261128120000 +0000">
+    <title lang="en">A Frame In Time</title>
+    <desc lang="en">Trishaw riders, construction workers, coolies at the port. These are just a few of the working-class heroes who helped build Singapore. These are their stories.</desc>
+    <icon src="http://img.freeviewplay.net/e7eabe8825e309cf537102e0269e011ff?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261128120000 +0000" stop="20261128130002 +0000">
+    <title lang="en">Asia Tonight 2026/2027 - Fri 27/11/2026</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/e5a8c7b671eb2e87c22b1e76ba932abb7?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261128130002 +0000" stop="20261128140000 +0000">
+    <title lang="en">Singapore Hour</title>
+    <desc lang="en">Stressed? It's time to freshen up - Singapore style. Ditch the desk for a forest bath or a full-on junk-smashing rage room. Take your fun offshore for coral spotting or a paddleboard workout that migh</desc>
+    <icon src="http://img.freeviewplay.net/e545aabeebefa4a89767315549d8a3e59?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261128140000 +0000" stop="20261128150001 +0000">
+    <title lang="en">Shermin's March</title>
+    <desc lang="en">A 30-something writer-producer who never had a boyfriend has 8 months to find the man of her dreams. Will she be able to find her prince charming or is she destined to be single forever?</desc>
+    <icon src="http://img.freeviewplay.net/e8ac38e057b35041e6ea5a4e062c86b55?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261128150001 +0000" stop="20261128160000 +0000">
+    <title lang="en">Shermin's March</title>
+    <desc lang="en">After countless dates, it has come down to 2 guys. To test her compatibility with both of them, Shermin takes it up 1 notch - by going on an overseas trip with each potential prince charming.</desc>
+    <icon src="http://img.freeviewplay.net/e8ac38e057b35041e6ea5a4e062c86b55?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261128160000 +0000" stop="20261128170005 +0000">
+    <title lang="en">East Asia Tonight 2026/2027 - Fri 27/11/</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/e6b35bfbb0180f0b177fd3fbd67c12651?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261128170005 +0000" stop="20261128180000 +0000">
+    <title lang="en">A Frame In Time</title>
+    <desc lang="en">Trishaw riders, construction workers, coolies at the port. These are just a few of the working-class heroes who helped build Singapore. These are their stories.</desc>
+    <icon src="http://img.freeviewplay.net/e7eabe8825e309cf537102e0269e011ff?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261128180000 +0000" stop="20261128190001 +0000">
+    <title lang="en">Asia Tonight 2026/2027 - Fri 27/11/2026</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/e5a8c7b671eb2e87c22b1e76ba932abb7?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261128190001 +0000" stop="20261128200000 +0000">
+    <title lang="en">Singapore Hour</title>
+    <desc lang="en">Stressed? It's time to freshen up - Singapore style. Ditch the desk for a forest bath or a full-on junk-smashing rage room. Take your fun offshore for coral spotting or a paddleboard workout that migh</desc>
+    <icon src="http://img.freeviewplay.net/e545aabeebefa4a89767315549d8a3e59?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261128200000 +0000" stop="20261128210003 +0000">
+    <title lang="en">Shermin's March</title>
+    <desc lang="en">A 30-something writer-producer who never had a boyfriend has 8 months to find the man of her dreams. Will she be able to find her prince charming or is she destined to be single forever?</desc>
+    <icon src="http://img.freeviewplay.net/e8ac38e057b35041e6ea5a4e062c86b55?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261128210003 +0000" stop="20261128220000 +0000">
+    <title lang="en">Shermin's March</title>
+    <desc lang="en">After countless dates, it has come down to 2 guys. To test her compatibility with both of them, Shermin takes it up 1 notch - by going on an overseas trip with each potential prince charming.</desc>
+    <icon src="http://img.freeviewplay.net/e8ac38e057b35041e6ea5a4e062c86b55?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261128220000 +0000" stop="20261129000000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
@@ -73704,12 +73726,10 @@
     <icon src="https://images.metadata.sky.com/pd-image/4634c0ea-5b39-41d5-b26b-2a6e4cd8edc9/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20261126110000 +0000" stop="20261126120000 +0000">
-    <title lang="en">CNN This Morning (Weekday)</title>
-    <desc lang="en">Thursday, November 26, 2026 6AM. Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5eea0893-cf8f-4027-9edb-16acc9f47265/cover"/>
+    <title lang="en">CNN This Morning</title>
+    <desc lang="en">Thursday, November 26, 2026 6am ET. Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6fc4f6eb-2afc-4d63-8787-92cf4bc8f178/cover"/>
     <premiere/>
-    <episode-num system="xmltv_ns">2025.242.0</episode-num>
-    <episode-num system="onscreen">S2026E243</episode-num>
   </programme>
   <programme channel="CNNInternational.uk" start="20261126120000 +0000" stop="20261126130000 +0000">
     <title lang="en">Iran and the Bomb: A Fareed Zakaria Special</title>
@@ -73723,16 +73743,10 @@
     <icon src="https://images.metadata.sky.com/pd-image/98f0ddd8-0f23-4e16-b84f-16582bae7584/cover"/>
     <premiere/>
   </programme>
-  <programme channel="CNNInternational.uk" start="20261126140000 +0000" stop="20261126144500 +0000">
+  <programme channel="CNNInternational.uk" start="20261126140000 +0000" stop="20261126150000 +0000">
     <title lang="en">Connect the World</title>
     <desc lang="en">Thursday, November 26, 2026 9am ET. Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5302b4ab-e515-4ab9-97ba-9d9c6554fa8e/cover"/>
-    <premiere/>
-  </programme>
-  <programme channel="CNNInternational.uk" start="20261126144500 +0000" stop="20261126150000 +0000">
-    <title lang="en">World Sport</title>
-    <desc lang="en">Thursday, November 26, 2026 945am ET. Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/787f17d2-4857-44ac-a13c-8d111ae15b92/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c47729dc-e0b9-45e4-a99e-d26fbbb546f5/cover"/>
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20261126150000 +0000" stop="20261126160000 +0000">
@@ -73789,9 +73803,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/896a6be0-bc48-458f-ad73-6476cb78578f/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20261126230000 +0000" stop="20261127000000 +0000">
-    <title lang="en">Global Perspectives</title>
-    <desc lang="en">In Bangkok. At CNN's Global Perspectives event in Bangkok, we go behind the scenes, from headline-making interviews on stage to candid moments behind the scenes.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fbc8ec24-eb4a-4461-b8a0-78e6edcc8690/cover"/>
+    <title lang="en">The Brief with Jim Sciutto</title>
+    <desc lang="en">Thursday, November 26, 2026 6pm ET.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d7746fbd-5632-4d5c-9c3d-95ea93e9d617/cover"/>
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20261127000000 +0000" stop="20261127010000 +0000">
@@ -73825,16 +73839,11 @@
     <icon src="https://images.metadata.sky.com/pd-image/568335d8-bf9b-4ca1-a878-71e73e44184b/cover"/>
     <premiere/>
   </programme>
-  <programme channel="CNNInternational.uk" start="20261127060000 +0000" stop="20261127064500 +0000">
+  <programme channel="CNNInternational.uk" start="20261127060000 +0000" stop="20261127070000 +0000">
     <title lang="en">The Story Is With Elex Michaelson</title>
     <desc lang="en">Friday, November 27, 2026 1am ET. Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d8cabd9f-6e16-461f-a337-666a3bd8e800/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ac963d29-a75c-4271-92d0-896e1e6cde4d/cover"/>
     <premiere/>
-  </programme>
-  <programme channel="CNNInternational.uk" start="20261127064500 +0000" stop="20261127070000 +0000">
-    <title lang="en">World Sport</title>
-    <desc lang="en">Thursday, November 26, 2026 945am ET. Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3f214e4f-ffbf-462e-be00-3b1752b36cd6/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20261127070000 +0000" stop="20261127080000 +0000">
     <title lang="en">CNN Newsroom</title>
@@ -73842,16 +73851,11 @@
     <icon src="https://images.metadata.sky.com/pd-image/84188499-652e-4714-b5c1-b782c07206ff/cover"/>
     <premiere/>
   </programme>
-  <programme channel="CNNInternational.uk" start="20261127080000 +0000" stop="20261127084500 +0000">
+  <programme channel="CNNInternational.uk" start="20261127080000 +0000" stop="20261127090000 +0000">
     <title lang="en">CNN Newsroom</title>
     <desc lang="en">Friday, November 27, 2026 3am ET. Live context and clarity to the day's top stories from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7112b188-bfda-4491-a372-6aa5fdfdbe62/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7c54873c-50fa-4938-a567-23866b6a6447/cover"/>
     <premiere/>
-  </programme>
-  <programme channel="CNNInternational.uk" start="20261127084500 +0000" stop="20261127090000 +0000">
-    <title lang="en">World Sport</title>
-    <desc lang="en">Thursday, November 26, 2026 945am ET. Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/513d99fb-be54-464f-a73b-27416479c4dc/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20261127090000 +0000" stop="20261127100000 +0000">
     <title lang="en">CNN Newsroom</title>
@@ -73860,9 +73864,9 @@
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20261127100000 +0000" stop="20261127110000 +0000">
-    <title lang="en">CNN Headline Express</title>
-    <desc lang="en">Friday, November 27, 2026 5AM. The biggest headlines and most buzzworthy stories with live updates throughout the day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4d05ead6-4f38-41bc-93be-a9fc0379f28c/cover"/>
+    <title lang="en">CNN This Morning</title>
+    <desc lang="en">Friday, November 27, 2026 5AM. Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c9e88db1-f656-4ca2-ab9e-4ec5cca7cd89/cover"/>
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20261127110000 +0000" stop="20261127120000 +0000">
@@ -74371,10 +74375,6 @@
   <programme channel="CapitalRadio.uk" start="20261128220000 +0000" stop="20261129010000 +0000">
     <title lang="en">Weekender</title>
     <desc lang="en">Lee Juggurnauth's live in the mix with non-stop dance bangers | @CapitalOfficial</desc>
-  </programme>
-  <programme channel="CapitalXtra.uk" start="20261121190000 +0000" stop="20261121230000 +0000">
-    <title lang="en">Manny Norte</title>
-    <desc lang="en">Manny Norte plays the biggest Hip-Hop and RnB tunes! Get involved @CapitalXTRA</desc>
   </programme>
   <programme channel="CapitalXtra.uk" start="20261121230000 +0000" stop="20261122010000 +0000">
     <title lang="en">Afrobeats with Afro B</title>
@@ -136413,10 +136413,6 @@
     <title lang="en">Non Stop 80s In The Evening</title>
     <desc lang="en">A whole load of huge 80s classics back to back, what a great way to end your day!</desc>
   </programme>
-  <programme channel="Heart90s.uk" start="20261121190000 +0000" stop="20261122000000 +0000">
-    <title lang="en">Non-Stop 90s</title>
-    <desc lang="en">Sounding as good as they did in the 90s with all your favourite hits from the decade that brought us Britney, Christina Aguilera, Take That and Destiny's Child.</desc>
-  </programme>
   <programme channel="Heart90s.uk" start="20261122000000 +0000" stop="20261122060000 +0000">
     <title lang="en">Non-Stop 90s</title>
     <desc lang="en">90s Feel Good... 24/7! Love Britney, Backstreet Boys and other pop icons? You're in the right place!</desc>
@@ -136584,10 +136580,6 @@
   <programme channel="Heart90s.uk" start="20261128190000 +0000" stop="20261129000000 +0000">
     <title lang="en">Non-Stop 90s</title>
     <desc lang="en">Sounding as good as they did in the 90s with all your favourite hits from the decade that brought us Britney, Christina Aguilera, Take That and Destiny's Child.</desc>
-  </programme>
-  <programme channel="HeartDance.uk" start="20261121190000 +0000" stop="20261121230000 +0000">
-    <title lang="en">Club Classics</title>
-    <desc lang="en">Pandora has four hours of the biggest Club Classics NON-STOP!</desc>
   </programme>
   <programme channel="HeartDance.uk" start="20261121230000 +0000" stop="20261122010000 +0000">
     <title lang="en">Heart Dance</title>
@@ -136844,10 +136836,6 @@
   <programme channel="HeartDance.uk" start="20261128230000 +0000" stop="20261129010000 +0000">
     <title lang="en">Heart Dance</title>
     <desc lang="en">This is Heart Dance playing the best non-stop Club Classics.</desc>
-  </programme>
-  <programme channel="HeartRadio.uk" start="20261121190000 +0000" stop="20261121230000 +0000">
-    <title lang="en">Club Classics</title>
-    <desc lang="en">Pandora has four hours of the biggest Club Classics NON-STOP!</desc>
   </programme>
   <programme channel="HeartRadio.uk" start="20261121230000 +0000" stop="20261122010000 +0000">
     <title lang="en">Jojo Silva</title>
@@ -145772,7 +145760,7 @@
   <programme channel="ITV1Granada.uk" start="20261122113000 +0000" stop="20261122142500 +0000">
     <title lang="en">EFL Live: Burnley v Blackburn Rovers</title>
     <desc lang="en">Burnley take on Blackburn Rovers in the East Lancashire Derby. Just 11 miles separate the two towns and there is a famous and old rivalry between the two clubs.</desc>
-    <icon src="https://img.freeviewplay.tv/ea62803a5019b5a2257e1eab47671b3b3?w=800"/>
+    <icon src="https://img.freeviewplay.tv/pfb971831bc2317b153f8dbffa7b0953c?w=800"/>
   </programme>
   <programme channel="ITV1Granada.uk" start="20261122142500 +0000" stop="20261122165000 +0000">
     <title lang="en">Die Another Day</title>
@@ -145787,7 +145775,7 @@
   <programme channel="ITV1Granada.uk" start="20261122175000 +0000" stop="20261122180000 +0000">
     <title lang="en">ITV Evening News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
-    <icon src="https://img.freeviewplay.tv/e0f3c0ca6cfc3744ed8d1a9c687a543ec?w=800"/>
+    <icon src="https://img.freeviewplay.tv/pcd3eb1ef0ace54f7bd508ce981a21cc7?w=800"/>
   </programme>
   <programme channel="ITV1Granada.uk" start="20261122180000 +0000" stop="20261122180500 +0000">
     <title lang="en">ITV News Granada Reports</title>
@@ -145796,7 +145784,7 @@
   </programme>
   <programme channel="ITV1Granada.uk" start="20261122180500 +0000" stop="20261122210000 +0000">
     <title lang="en">Wicked</title>
-    <desc lang="en">Blockbuster Oscar-winning musical film starring Cynthia Erivo and Ariana Grande, 2024. A young woman who is much ridiculed becomes friends with a popular girl in the Land of Oz.</desc>
+    <desc lang="en">The smash-hit Oscar-winning musical starring Cynthia Erivo and Ariana Grande. A young woman forms an unlikely friendship with a popular girl in the Land of Oz.</desc>
     <icon src="https://img.freeviewplay.tv/p82a37edeeb68668e9f81275d408085ac?w=800"/>
   </programme>
   <programme channel="ITV1Granada.uk" start="20261122210000 +0000" stop="20261122223000 +0000">
@@ -170710,10 +170698,6 @@
     <title lang="en">Jewellery Maker Repeats</title>
     <desc lang="en">Jewellery Maker Repeats.</desc>
   </programme>
-  <programme channel="LBCNews.uk" start="20261121190000 +0000" stop="20261121230000 +0000">
-    <title lang="en">Jonathan Ray</title>
-    <desc lang="en">Where the news never stops. Jonathan Ray brings you the latest from LBC News reporters across the UK and around the world.</desc>
-  </programme>
   <programme channel="LBCNews.uk" start="20261121230000 +0000" stop="20261122030000 +0000">
     <title lang="en">Non-stop News</title>
     <desc lang="en">Where the news never stops. The latest from LBC News reporters across the UK and around the world.</desc>
@@ -187350,11 +187334,6 @@
     <title lang="en">Get Into The Groove!</title>
     <desc lang="en">Trying to impress with your cool moves? Give these a go, as we party hard on NOW 80s.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2437201c-98db-4280-8154-ab7f5b6fd4e5/cover"/>
-  </programme>
-  <programme channel="Now90s.uk" start="20261121130000 +0000" stop="20261121233500 +0000">
-    <title lang="en">Mark Goodier's No.1s of the 00s!</title>
-    <desc lang="en">Mark Goodier's choice selection of the 275 UK number 1s of the 00s. 13 songs that defined each year of the decade, starting with Westlife in 2000 &amp; ending with Gaga in 2009.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b5f3c923-3536-4232-988e-e4c17f0015cc/cover"/>
   </programme>
   <programme channel="Now90s.uk" start="20261121233500 +0000" stop="20261122000000 +0000">
     <title lang="en">The Saturday Pop Party!</title>
@@ -214141,10 +214120,6 @@
     <title lang="en">Rianta</title>
     <desc lang="en">Clár ceoil ár linne, ceol na cruinne, ceolta nua agus ceolta níos sine.</desc>
   </programme>
-  <programme channel="RadioX.uk" start="20261121190000 +0000" stop="20261121230000 +0000">
-    <title lang="en">Conor Knight</title>
-    <desc lang="en">Conor plays non-stop rock 'n' roll floor-fillers!</desc>
-  </programme>
   <programme channel="RadioX.uk" start="20261121230000 +0000" stop="20261122020000 +0000">
     <title lang="en">X-Posure with John Kennedy</title>
     <desc lang="en">Radio X's guru of new music brings you the essential tracks you need to hear, with sessions, interviews and more.</desc>
@@ -219641,7 +219616,7 @@
   </programme>
   <programme channel="S4C.uk" start="20261122193000 +0000" stop="20261122200000 +0000">
     <title lang="en">New: Dechrau Canu Dechrau Canmol</title>
-    <desc lang="en">Lowri Morgan sy'n Nheml Shree Swaminarayan Caerdydd yn profi llawenydd Gwyl Diwali. Lowri Morgan's in Shree Swaminarayan Temple Cardiff experiencing the joy of Diwali Festival.</desc>
+    <desc lang="en">Lowri Morgan sydd yn Nheml Shree Swaminarayan yng Nghaerdydd yn profi llawenydd Gwyl Diwali. Lowri Morgan is in Shree Swaminarayan Temple in Cardiff experiencing the joy of Diwali Festival.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bae51996-59c4-3f5d-b0a6-fdb44ce74658/cover"/>
     <premiere/>
   </programme>
@@ -221779,80 +221754,57 @@
     <icon src="https://images.metadata.sky.com/pd-image/e95b19c9-6f55-4e19-9baf-e2d379fdb6f6/cover"/>
     <premiere/>
   </programme>
-  <programme channel="S4C.uk" start="20261128100000 +0000" stop="20261128101500 +0000">
-    <title lang="en">Dreigiau Cadi</title>
-    <desc lang="en">Mae'r Dreigiau mewn picl pan fydd angen iddynt newid amserlen y rheilffordd. The Dragons get in a pickle when they need to change the railway's timetable.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9981b854-20e2-308c-a0f4-1e196896765b/cover"/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme channel="S4C.uk" start="20261128101500 +0000" stop="20261128104500 +0000">
+  <programme channel="S4C.uk" start="20261128100000 +0000" stop="20261128103000 +0000">
     <title lang="en">Sgwrs dan y Lloer</title>
     <desc lang="en">Sgwrsio, hel atgofion, a chanu dan y lloer yng nghwmni'r fytholwyrdd Tammy Jones draw yn Nyffryn Ogwen. Chatting, reminiscing and singing in the company of the forever young Tammy Jones.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1d68ee2-a8bb-3f58-ab61-2f63e9d81535/cover"/>
     <episode-num system="xmltv_ns">4.1.0</episode-num>
     <episode-num system="onscreen">S5E2</episode-num>
   </programme>
-  <programme channel="S4C.uk" start="20261128104500 +0000" stop="20261128111500 +0000">
+  <programme channel="S4C.uk" start="20261128103000 +0000" stop="20261128110000 +0000">
     <title lang="en">Dan Do</title>
     <desc lang="en">Ymweliad ag adeilad hynafol tu fas i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd, a thy anhygoel ger Bae Ceredigion. We visit an amazing property overlooking Ceredigion Bay.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/516257df-d85f-3e90-a6ad-871dd191fd7a/cover"/>
     <episode-num system="xmltv_ns">4.4.0</episode-num>
     <episode-num system="onscreen">S5E5</episode-num>
   </programme>
-  <programme channel="S4C.uk" start="20261128111500 +0000" stop="20261128114500 +0000">
+  <programme channel="S4C.uk" start="20261128110000 +0000" stop="20261128113000 +0000">
     <title lang="en">Cais Quinnell</title>
     <desc lang="en">Yr wythnos hon, mae Scott yn rhoi cynnig ar nofio awyr agored yng nghwmni Lisa Jên. This week, Scott gives a helping hand at an animal park, and joins in a Taiko drumming session.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/98998eda-21ce-3e2c-b17c-7204fa11a6f4/cover"/>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme channel="S4C.uk" start="20261128114500 +0000" stop="20261128121500 +0000">
+  <programme channel="S4C.uk" start="20261128113000 +0000" stop="20261128120000 +0000">
     <title lang="en">Ffermio</title>
     <desc lang="en">Cyfres sy'n edrych ar y byd amaeth, yn cynnwys rai o bynciau llosg y diwydiant. A series exploring the world of agriculture across Wales.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b5dae310-fb04-40a4-95a4-7108dfb2c609/cover"/>
   </programme>
-  <programme channel="S4C.uk" start="20261128121500 +0000" stop="20261128124500 +0000">
+  <programme channel="S4C.uk" start="20261128120000 +0000" stop="20261128123000 +0000">
     <title lang="en">Teulu Shadog: Tymhorau'r Flwyddyn</title>
     <desc lang="en">Mae Gary a Meinir yn wynebu ansicrwydd o fewn y diwydiant, gyda newidiadau o fewn diwygiad y CFC. Gary and Meinir face uncertainty within the farming industry.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9b96eb16-a242-40f6-8375-0b68e68380f8/cover"/>
   </programme>
-  <programme channel="S4C.uk" start="20261128124500 +0000" stop="20261128131500 +0000">
+  <programme channel="S4C.uk" start="20261128123000 +0000" stop="20261128153500 +0000">
+    <title lang="en">Clwb Rygbi Rhyngwladol: Cymru v Japan</title>
+    <desc lang="en">Wales v Japan in the 9th place Final of the 2026 Nations Championship. K/O  1:10pm. Cymru v Japan yn Allianz Stadium, Twickenham C/G: 1:10yp.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/05bf299f-2b11-468f-9581-1aff3382a12f/cover"/>
+  </programme>
+  <programme channel="S4C.uk" start="20261128153500 +0000" stop="20261128161000 +0000">
     <title lang="en">Richard Holt: Yr Academi Felys</title>
     <desc lang="en">Mae drysau'r Academi ar agor! Amser i griw newydd o bobyddion ddangos eu sgiliau i Richard yn y gegin. New series, and the group head to Melin Llynon windmill to meet the patisserie chef!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1c0e37ca-1162-4c2d-a711-d70035416b83/cover"/>
     <episode-num system="xmltv_ns">1.0.0</episode-num>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
-  <programme channel="S4C.uk" start="20261128131500 +0000" stop="20261128141500 +0000">
-    <title lang="en">Priodas Pum Mil</title>
-    <desc lang="en">Mae thema pêl-droed priodas Nicky ac Adam wedi dewis gan eu plant Kian a Kai sy'n gefnogwyr Manchester United. A football filled wedding celebration for Nicky &amp; Adam from Llanbedrog.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/eeca5340-c1d1-4389-926a-4556df6350ff/cover"/>
-    <episode-num system="xmltv_ns">8.5.0</episode-num>
-    <episode-num system="onscreen">S9E6</episode-num>
-  </programme>
-  <programme channel="S4C.uk" start="20261128141500 +0000" stop="20261128151500 +0000">
-    <title lang="en">Cynefin</title>
-    <desc lang="en">Mae Heledd Cynwal, Iestyn Jones a Llinos Owen yn croesi môr Iwerddon i grwydro Dulyn, gan ddathlu'r cysylltiadau gyda Chymru. We explore Dublin and the longstanding connections with Wales.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fc6b70d2-6360-4c47-b0db-84ce6e007bf0/cover"/>
-    <episode-num system="xmltv_ns">6.0.0</episode-num>
-    <episode-num system="onscreen">S7E1</episode-num>
-  </programme>
-  <programme channel="S4C.uk" start="20261128151500 +0000" stop="20261128161500 +0000">
-    <title lang="en">Siwrna Scandi Chris</title>
-    <desc lang="en">Mae Chris 'Flamebaster' Roberts ar siwrna Scandi, yn profi a'n coginio'r gorau o fwydydd Norwy. Welsh fire chef Chris 'Flamebaster' Roberts starts his epic Scandi food journey in Norway.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/14accd7f-2202-3e80-86fb-2b39ce5cfd24/cover"/>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme channel="S4C.uk" start="20261128161500 +0000" stop="20261128164500 +0000">
+  <programme channel="S4C.uk" start="20261128161000 +0000" stop="20261128164000 +0000">
     <title lang="en">Bwrdd i Dri</title>
     <desc lang="en">Yn y gyfres yma mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Mae'r 3 chogydd heddiw yn gerddorion adnabyddus yng Nghymru. The 3 cooks today are famous musicians.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d90d6ef6-370b-3da8-ae72-f1da067cc230/cover"/>
     <episode-num system="xmltv_ns">2.7.0</episode-num>
     <episode-num system="onscreen">S3E8</episode-num>
   </programme>
-  <programme channel="S4C.uk" start="20261128164500 +0000" stop="20261128171500 +0000">
+  <programme channel="S4C.uk" start="20261128164000 +0000" stop="20261128171500 +0000">
     <title lang="en">Bwyd Epic Chris</title>
     <desc lang="en">Ym mhennod tri, mae Chris yn benderfynol o ddod â phobl at ei gilydd yn Twthill drwy daflu parti stryd 'old-scwl' gyda thro Mecsicanaidd. In episode three, Chris throws a party!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9215a2eb-417a-4e4c-b353-b5b14ca8b237/cover"/>
